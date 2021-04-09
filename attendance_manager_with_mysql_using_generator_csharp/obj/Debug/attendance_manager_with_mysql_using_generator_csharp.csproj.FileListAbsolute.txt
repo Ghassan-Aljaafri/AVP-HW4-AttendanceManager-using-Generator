@@ -1,0 +1,48 @@
+C:\Users\Ghassan\source\repos\attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\bin\Debug\teacher_attendance.mdf
+C:\Users\Ghassan\source\repos\attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\bin\Debug\teacher_attendance_log.ldf
+C:\Users\Ghassan\source\repos\attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\bin\Debug\attendance_manager_with_mysql_using_generator_csharp.exe.config
+C:\Users\Ghassan\source\repos\attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\bin\Debug\attendance_manager_with_mysql_using_generator_csharp.exe
+C:\Users\Ghassan\source\repos\attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\bin\Debug\attendance_manager_with_mysql_using_generator_csharp.pdb
+C:\Users\Ghassan\source\repos\attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\bin\Debug\System.Memory.dll
+C:\Users\Ghassan\source\repos\attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ghassan\source\repos\attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ghassan\source\repos\attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\bin\Debug\System.Buffers.dll
+C:\Users\Ghassan\source\repos\attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ghassan\source\repos\attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ghassan\source\repos\attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\bin\Debug\MySql.Data.xml
+C:\Users\Ghassan\source\repos\attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\obj\Debug\attendance_manager_with_mysql_using_generator_csharp.csprojAssemblyReference.cache
+C:\Users\Ghassan\source\repos\attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\obj\Debug\attendance_manager_with_mysql_using_generator_csharp.exe.config
+C:\Users\Ghassan\source\repos\attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\obj\Debug\attendance_manager_with_mysql_using_generator_csharp.Attendence.resources
+C:\Users\Ghassan\source\repos\attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\obj\Debug\attendance_manager_with_mysql_using_generator_csharp.Properties.Resources.resources
+C:\Users\Ghassan\source\repos\attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\obj\Debug\attendance_manager_with_mysql_using_generator_csharp.csproj.GenerateResource.cache
+C:\Users\Ghassan\source\repos\attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\obj\Debug\attendance_manager_with_mysql_using_generator_csharp.csproj.CoreCompileInputs.cache
+C:\Users\Ghassan\source\repos\attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\obj\Debug\attendance_manager_with_mysql_using_generator_csharp.csproj.CopyComplete
+C:\Users\Ghassan\source\repos\attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\obj\Debug\attendance_manager_with_mysql_using_generator_csharp.exe
+C:\Users\Ghassan\source\repos\attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\obj\Debug\attendance_manager_with_mysql_using_generator_csharp.pdb
+C:\Users\Ghassan\source\repos\attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\obj\Debug\attendance_manager_with_mysql_using_generator_csharp.CourseForm.resources
+C:\Users\Ghassan\source\repos\attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\obj\Debug\attendance_manager_with_mysql_using_generator_csharp.RoomForm.resources
+C:\Users\Ghassan\source\repos\attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\obj\Debug\attendance_manager_with_mysql_using_generator_csharp.TeacherForm.resources
+C:\Users\Ghassan\source\repos\All HW\HW4 attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\bin\Debug\teacher_attendance.mdf
+C:\Users\Ghassan\source\repos\All HW\HW4 attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\bin\Debug\teacher_attendance_log.ldf
+C:\Users\Ghassan\source\repos\All HW\HW4 attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\bin\Debug\attendance_manager_with_mysql_using_generator_csharp.exe.config
+C:\Users\Ghassan\source\repos\All HW\HW4 attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\bin\Debug\attendance_manager_with_mysql_using_generator_csharp.exe
+C:\Users\Ghassan\source\repos\All HW\HW4 attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\bin\Debug\attendance_manager_with_mysql_using_generator_csharp.pdb
+C:\Users\Ghassan\source\repos\All HW\HW4 attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\bin\Debug\System.Memory.dll
+C:\Users\Ghassan\source\repos\All HW\HW4 attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ghassan\source\repos\All HW\HW4 attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ghassan\source\repos\All HW\HW4 attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\bin\Debug\System.Buffers.dll
+C:\Users\Ghassan\source\repos\All HW\HW4 attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ghassan\source\repos\All HW\HW4 attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ghassan\source\repos\All HW\HW4 attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\bin\Debug\MySql.Data.xml
+C:\Users\Ghassan\source\repos\All HW\HW4 attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\obj\Debug\attendance_manager_with_mysql_using_generator_csharp.csprojAssemblyReference.cache
+C:\Users\Ghassan\source\repos\All HW\HW4 attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\obj\Debug\attendance_manager_with_mysql_using_generator_csharp.exe.config
+C:\Users\Ghassan\source\repos\All HW\HW4 attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\obj\Debug\attendance_manager_with_mysql_using_generator_csharp.Attendence.resources
+C:\Users\Ghassan\source\repos\All HW\HW4 attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\obj\Debug\attendance_manager_with_mysql_using_generator_csharp.CourseForm.resources
+C:\Users\Ghassan\source\repos\All HW\HW4 attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\obj\Debug\attendance_manager_with_mysql_using_generator_csharp.RoomForm.resources
+C:\Users\Ghassan\source\repos\All HW\HW4 attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\obj\Debug\attendance_manager_with_mysql_using_generator_csharp.TeacherForm.resources
+C:\Users\Ghassan\source\repos\All HW\HW4 attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\obj\Debug\attendance_manager_with_mysql_using_generator_csharp.Properties.Resources.resources
+C:\Users\Ghassan\source\repos\All HW\HW4 attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\obj\Debug\attendance_manager_with_mysql_using_generator_csharp.csproj.GenerateResource.cache
+C:\Users\Ghassan\source\repos\All HW\HW4 attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\obj\Debug\attendance_manager_with_mysql_using_generator_csharp.csproj.CoreCompileInputs.cache
+C:\Users\Ghassan\source\repos\All HW\HW4 attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\obj\Debug\attendance_manager_with_mysql_using_generator_csharp.csproj.CopyComplete
+C:\Users\Ghassan\source\repos\All HW\HW4 attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\obj\Debug\attendance_manager_with_mysql_using_generator_csharp.exe
+C:\Users\Ghassan\source\repos\All HW\HW4 attendance-manager-with-mysql-using-generator\attendance_manager_with_mysql_using_generator_csharp\obj\Debug\attendance_manager_with_mysql_using_generator_csharp.pdb
